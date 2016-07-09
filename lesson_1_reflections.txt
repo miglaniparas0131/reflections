@@ -1,3 +1,5 @@
+document on loda lassann 
+
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
@@ -42,6 +44,7 @@ How can you use the commands git log and git diff to view the history of files?
 
 How might using version control make you more confident to make changes that could break something?
 
+bhenchod dunia
 Now that you have your workspace set up, what do you want to try using Git for?
 
 https://www.youtube.com/watch?v=NUVcxN7hy3c&list=PLRd0zhQj3CBnYFqV6YxkwBKIBFsj2Zc36&index=6
