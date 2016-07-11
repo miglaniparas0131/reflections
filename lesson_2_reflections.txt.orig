@@ -6,6 +6,9 @@ How is the staging area different from the working directory and the repository?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-paras paras paras
+<<<<<<< HEAD
 vivek shukla vivek shukla vivek shukla
+=======
+paras paras paras
+>>>>>>> 03c88e007651e96525116f04449ab510b156d896
 
