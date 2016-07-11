@@ -5,11 +5,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-<<<<<<< HEAD
 
-How do the diagrams help you visualize the branch structure?
-||||||| merged common ancestors
-=======
+i am making this change directly through server.Thanks git
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
->>>>>>> easy-mode
